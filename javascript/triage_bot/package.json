@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "asana": "0.17.1",
+    "asana": "0.18.14",
     "node": "12.7.0"
   }
 }

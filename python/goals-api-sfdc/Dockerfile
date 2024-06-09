@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.12.3
 
 WORKDIR /usr/src/app
 
@@ -16,7 +16,7 @@ COPY README.md .
 RUN pip install --no-cache-dir --upgrade setuptools wheel
 RUN python setup.py bdist_wheel
 
-FROM python:3.6
+FROM python:3.12.3
 
 WORKDIR /usr/src/app
 

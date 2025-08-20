@@ -27,12 +27,12 @@
     <dependency>
       <groupId>com.asana</groupId>
       <artifactId>asana</artifactId>
-      <version>0.9.0</version>
+      <version>0.10.4</version>
     </dependency>
     <dependency>
       <groupId>com.hubspot.slack</groupId>
       <artifactId>slack-java-client</artifactId>
-      <version>1.3</version>
+      <version>1.16.8</version>
     </dependency>
   </dependencies>
 

@@ -1,3 +1,3 @@
 source 'https://rubygems.org' do
-  gem 'asana'
+  gem 'asana', '>= 2.0.1'
 end
